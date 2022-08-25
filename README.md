@@ -1,2 +1,2 @@
-# Hypercasual prototype For singularity limited
+# ProjectForSingularity
  
